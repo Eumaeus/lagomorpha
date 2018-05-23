@@ -2,9 +2,11 @@
 
 Initial experiments and recipes for working with Latin and Greek morphology, based on [code libraries by Neel Smith](https://github.com/neelsmith?tab=repositories).
 
+Requires [SBT](https://www.scala-sbt.org).
+
 ## Steps
 
-1. Get into a REPL
+1. Get into a REPL; load a script (which loads a CEX library)
 
     `sbt console`
     `:load scripts/utils.sc`

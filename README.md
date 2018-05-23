@@ -1,5 +1,6 @@
 # Lagomorpha
 
+Initial experiments and recipes for working with Latin and Greek morphology, based on [code libraries by Neel Smith](https://github.com/neelsmith?tab=repositories).
 
 ## Steps
 
@@ -27,6 +28,6 @@
 	`val histo2 = histo(justLexTokens)`
 	`val histo3 = histo(ode37AllTokens,Some(LexicalToken))`
 
-1. Convert to sequence to see frequenc
+1. Convert to sequence to see frequencies
 
 	`histo3.toSeq.sortBy(_._2).reverse`

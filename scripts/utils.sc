@@ -44,11 +44,11 @@ def textIndex(tkns:  Vector[LatinToken], fName: String = "tokenIndex.cex"): Unit
 def histo(tkns: Vector[LatinToken], lexicalCategory: Option[LatinLexicalCategory] = Some(LexicalToken)) : Map[String, Int] = {
   lexicalCategory match {
     case None => {
-      val txt = tkns.map(_.text)
+      val txt = tkns.map(_.text.toLowerCase)
       txt.groupBy(s => s).map { m => (m._1,m._2.size)}.toSeq.sortBy(_._2).reverse.toMap
     }
     case cat: Option[LatinLexicalCategory] => {
-      val txt = tkns.filter(_.category == cat.get).map(_.text)
+      val txt = tkns.filter(_.category == cat.get).map(_.text.toLowerCase)
       txt.groupBy(s => s).map { m => (m._1,m._2.size)}.toSeq.sortBy(_._2).reverse.toMap
     }
   }

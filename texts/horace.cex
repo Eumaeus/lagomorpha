@@ -1,0 +1,120 @@
+#!cexversion
+3.0
+
+#!citelibrary
+name#Some Odes of Horace, a testbed for working with morphology
+urn#urn:cite2:cex:fufolio.2018a:HoraceMorph
+license#CC Share Alike.  For details, see more info.
+
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:latinLit:phi0893.phi001.fulat1:#book,poem,line#Horace#Odes#Furman University##true#lat
+
+#!ctsdata
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.1#O diva, gratum quae regis Antium, 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.2#praesens vel imo tollere de gradu 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.3#mortale corpus vel superbos 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.4#vertere funeribus triumphos:  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.5#te pauper ambit sollicita prece 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.6#ruris colonus, te dominam aequoris 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.7#quicumque Bithyna lacessit 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.8#Carpathium pelagus carina;  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.9#te Dacus asper, te profugi Scythae 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.10#urbesque gentesque et Latium ferox 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.11#regumque matres barbarorum et 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.12#purpurei metuunt tyranni,  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.13#iniurioso ne pede proruas 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.14#stantem columnam neu populus frequens 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.15#ad arma, cessantis ad arma 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.16#concitet imperiumque frangat;  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.17#te semper anteit saeva Necessitas, 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.18#clavos trabalis et cuneos manu 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.19#gestans aena nec severus 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.20#uncus abest liquidumque plumbum;  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.21#te Spes et albo rara Fides colit 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.22#velata panno nec comitem abnegat, 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.23#utcumque mutata potentis 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.24#veste domos inimica linquis,  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.25#at volgus infidum et meretrix retro 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.26#periura cedit, diffugiunt cadis 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.27#cum faece siccatis amici, 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.28#ferre iugum pariter dolosi:  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.29#serves iturum Caesarem in ultimos 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.30#orbis Britannos et iuvenum recens 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.31#examen Eois timendum 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.32#partibus Oceanoque rubro.  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.33#heu heu, cicatricum et sceleris pudet 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.34#fratrumque. quid nos dura refugimus 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.35#aetas? quid intactum nefasti 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.36#liquimus? unde manum iuventus  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.37#metu deorum continuit? quibus 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.38#pepercit aris? o utinam nova 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.39#incude diffingas retusum in 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.35.40#Massagetas Arabasque ferrum.  
+
+#!ctsdata
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.1#Et ture et fidibus iuvat 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.2#placare et vituli sanguine debito 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.3#custodes Numidae deos, 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.4#qui nunc Hesperia sospes ab ultima 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.5#caris multa sodalibus, 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.6#nulli plura tamen dividet oscula 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.7#quam dulci Lamiae, memor 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.8#actae non alio rege puertiae 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.9#mutataeque simul togae. 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.10#Cressa ne careat pulcra dies nota 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.11#neu promptae modus amphorae 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.12#neu morem in Salium sit requies pedum 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.13#neu multi Damalis meri 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.14#Bassum Threicia vincat amystide 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.15#neu desint epulis rosae 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.16#neu vivax apium neu breve lilium. 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.17#omnes in Damalin putris 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.18#deponent oculos nec Damalis novo 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.19#divelletur adultero 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.36.20#lascivis hederis ambitiosior. 
+
+#!ctsdata
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.1#Nunc est bibendum, nunc pede libero 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.2#pulsanda tellus; nunc Saliaribus 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.3#ornare pulvinar deorum 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.4#tempus erat dapibus, sodales.  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.5#antehac nefas depromere Caecubum 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.6#cellis avitis, dum Capitolio 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.7#regina dementis ruinas, 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.8#funus et imperio parabat  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.9#contaminato cum grege turpium 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.10#morbo virorum quidlibet inpotens 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.11#sperare fortunaque dulci 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.12#ebria. sed minuit furorem  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.13#vix una sospes navis ab ignibus 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.14#mentemque lymphatam Mareotico 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.15#redegit in veros timores 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.16#Caesar ab Italia volantem  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.17#remis adurgens, accipiter velut 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.18#mollis columbas aut leporem citus 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.19#venator in campis nivalis 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.20#Haemoniae, daret ut catenis  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.21#fatale monstrum. quae generosius 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.22#perire quaerens nec muliebriter 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.23#expavit ensem nec latentis 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.24#classe cita reparavit oras.  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.25#ausa et iacentem visere regiam 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.26#voltu sereno, fortis et asperas 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.27#tractare serpentes, ut atrum 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.28#corpore conbiberet venenum,  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.29#deliberata morte ferocior; 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.30#saevis Liburnis scilicet invidens 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.31#privata deduci superbo, 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.37.32#non humilis mulier, triumpho. 
+
+#!ctsdata
+urn:cts:latinLit:phi0893.phi001.fulat1:1.38.1#Persicos odi, puer, adparatus, 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.38.2#displicent nexae philyra coronae, 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.38.3#mitte sectari, rosa quo locorum 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.38.4#sera moretur.  
+urn:cts:latinLit:phi0893.phi001.fulat1:1.38.5#simplici myrto nihil adlabores 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.38.6#sedulus curo: neque te ministrum 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.38.7#dedecet myrtus neque me sub arta 
+urn:cts:latinLit:phi0893.phi001.fulat1:1.38.8#vite bibentem. 
+

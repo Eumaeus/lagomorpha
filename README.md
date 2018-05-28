@@ -1,4 +1,4 @@
-# Lagomorpha
+# Lagomorpha 🐰
 
 Initial experiments and recipes for working with Latin and Greek morphology, based on [code libraries by Neel Smith](https://github.com/neelsmith?tab=repositories).
 
